@@ -1,0 +1,8 @@
+Q: How do I reset my password?
+A: Go to the account settings page and click "Reset Password".
+
+Q: How do I upgrade my subscription?
+A: Visit the subscription page and select "Upgrade". Payments are processed immediately.
+
+Q: How do I contact support?
+A: Email support@company.com or use live chat on our website.
