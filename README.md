@@ -39,22 +39,8 @@ This assistant helps:
 
 - Enable data-driven support decisions.
 
-## Folder Structure
-Customer Support AI Assistant/
-├─ app/                  <- FastAPI backend
-│   └─ main.py           <- Backend API endpoints
-├─ rag/                  <- Retrieval-Augmented Generation code
-│   ├─ llm.py            <- Loads documents, embeddings, and defines QA chain
-│   └─ docs/             <- Knowledge base documents
-│       ├─ doc1.txt
-│       └─ doc2.txt
-│   # Replace/add your own documents here to customize the AI
-├─ frontend/             <- Streamlit frontend
-│   └─ app.py
-├─ venv/                 <- Python virtual environment
-└─ .env                  <- Environment variables (API keys)
 
-Customizing the AI: You can replace existing files or add new documents in rag/docs/. The assistant will automatically read and index them the next time it runs.
+You can replace existing files or add new documents in rag/docs/. The assistant will automatically read and index them the next time it runs.
 
 ## Installation
 
